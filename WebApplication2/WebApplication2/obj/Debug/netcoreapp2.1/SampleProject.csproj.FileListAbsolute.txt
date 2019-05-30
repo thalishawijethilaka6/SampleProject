@@ -1,0 +1,14 @@
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\SampleProject.deps.json
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\SampleProject.runtimeconfig.json
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\SampleProject.runtimeconfig.dev.json
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\SampleProject.dll
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\SampleProject.pdb
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.csprojAssemblyReference.cache
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.RazorAssemblyInfo.cache
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.RazorAssemblyInfo.cs
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.AssemblyInfoInputs.cache
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.AssemblyInfo.cs
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.RazorTargetAssemblyInfo.cache
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.dll
+C:\Users\twijethilaka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\SampleProject.pdb
